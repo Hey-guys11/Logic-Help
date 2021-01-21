@@ -2,7 +2,7 @@
 
 # Logic &middot; Discord Bot
 
-### ![version](https://img.shields.io/badge/Version-1.0.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/801705077618114571.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
+### ![version](https://img.shields.io/badge/Version-1.0.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/801705077618114571.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/p9vJm89HXz)
 
 <a target="_blank" href="https://discord.gg/p9vJm89HXz" title="Join our Discord!">
 <img draggable="false" src="https://discordapp.com/api/guilds/801705077618114571/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
