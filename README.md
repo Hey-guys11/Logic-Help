@@ -11,7 +11,7 @@
 
 # About
 
-**Logic** is a **Discord Bot** which let's you login to your Fortnite account and access 30+ commands! You can save up to 7 accounts which you can switch between! You can buy, gift, check your locker, and do much more!
+**Logic** is a **Discord Bot** which let's you login to your Fortnite account and access 30- commands! You can save up to 7 accounts which you can switch between! You can buy, gift, check your locker, and do much more!
 
 # Features
 
@@ -40,123 +40,123 @@ The standard command prefix is `-`
 
 ## Account
 ### ACCOUNT INFO
-Command: `+info`\
+Command: `-info`\
 Aliases: None\
 Returns account info
 ### CHECK CODE
-Command: `+checkcode`\
-Aliases: `+cc`, `+ccode`, `+checkc`\
+Command: `-checkcode`\
+Aliases: `-cc`, `-ccode`, `-checkc`\
 Checks Validity of Epic Games Code
 ### DELETE SAVED
-Command: `+deletesaved`\
-Aliases: `+del`, `+removesaved`, `+deletesavedlogin`\
+Command: `-deletesaved`\
+Aliases: `-del`, `-removesaved`, `-deletesavedlogin`\
 Removes your Fortnite Account
 ### IP
-Command: `+ip`\
-Aliases: `+devices`, `+device`\
+Command: `-ip`\
+Aliases: `-devices`, `-device`\
 Returns IP Addresses
 ### LINKED
-Command: `+linked`\
-Aliases: `+link`, `+external`\
+Command: `-linked`\
+Aliases: `-link`, `-external`\
 Gets/Unlinks Platforms
 ### LOGIN
-Command: `+login`\
-Aliases: `+signin`, `+i`\
+Command: `-login`\
+Aliases: `-signin`, `-i`\
 Logs in to your Fortnite Account
 ### LOGOUT
-Command: `+logout`\
-Aliases: `+signout`, `+o`\
+Command: `-logout`\
+Aliases: `-signout`, `-o`\
 Logs out of your Fortnite Account
 ### RECEIPTS
-Command: `+receipts`\
-Aliases: `+receipt`\
+Command: `-receipts`\
+Aliases: `-receipt`\
 Returns purchase history
 ### TOKEN
-Command: `+token`\
+Command: `-token`\
 Aliases: None\
 Generates an Access Token
 
 ## Battle Royale
 ### BALANCE
-Command: `+balance`\
-Aliases: `+bal`, `+vbucks`, `+v`\
+Command: `-balance`\
+Aliases: `-bal`, `-vbucks`, `-v`\
 Returns V-Bucks Balance
 ### BATTLE BUNDLE
-Command: `+battlebundle`\
-Aliases: `+bd`\
+Command: `-battlebundle`\
+Aliases: `-bd`\
 Buys the Battle Bundle 
 ### BATTLE PASS
-Command: `+battlepass`\
-Aliases: `+bp`\
+Command: `-battlepass`\
+Aliases: `-bp`\
 Buys the Battle Pass 
 ### BUY
-Command: `+buy`\
-Aliases: `+b`\
+Command: `-buy`\
+Aliases: `-b`\
 Buys from Item Shop
 ### EXCLUSIVES
-Command: `+exclusives`\
+Command: `-exclusives`\
 Aliases: None\
 Returns Exlusive Cosmetics
 ### GIFT
-Command: `+gift`\
-Aliases: `+g`\
+Command: `-gift`\
+Aliases: `-g`\
 Gifts from Item Shop
 ### GIFT HISTORY
-Command: `+gifthistory`\
-Aliases: `+gifth`\
+Command: `-gifthistory`\
+Aliases: `-gifth`\
 Returns gift history
 ### LEVEL
-Command: `+level`\
-Aliases: `+br`\
+Command: `-level`\
+Aliases: `-br`\
 Returns br info 
 ### LOCKER
-Command: `+locker`\
+Command: `-locker`\
 Aliases: None\
 Returns Total Skins 
 ### REFUND
-Command: `+refund`\
+Command: `-refund`\
 Aliases: None\
 Refunds's any purchase
 ### SAC
-Command: `+sac`\
+Command: `-sac`\
 Aliases: None\
 Sets SAC Code 
 ### SHOP
-Command: `+shop`\
-Aliases: `+store`, `+st`\
+Command: `-shop`\
+Aliases: `-store`, `-st`\
 Returns Fortnite Shop
 ### SHOP IMAGE
-Command: `+shopimage`\
-Aliases: `+sm`, `+sp`, `+si`, `+shoppic`, `+shopimage`, `+shopi`\
+Command: `-shopimage`\
+Aliases: `-sm`, `-sp`, `-si`, `-shoppic`, `-shopimage`, `-shopi`\
 Returns Fortnite Shop
 Buys Tiers
 ### UNDO
-Command: `+undo`\
+Command: `-undo`\
 Aliases: None\
 Undo's last purchase
 ### VBUCKS PLATFORM
-Command: `+vbucksplatform`\
-Aliases: `+platform`, `+vp`, `+plt`, `+mtxplatform`, `+vbplatform`\
+Command: `-vbucksplatform`\
+Aliases: `-platform`, `-vp`, `-plt`, `-mtxplatform`, `-vbplatform`\
 Changes V-Bucks Platform
 
 ## Party Hub
 ### AVATAR
-Command: `+avatar`\
-Aliases: `+kairos`, `+avi`\
+Command: `-avatar`\
+Aliases: `-kairos`, `-avi`\
 Returns Party Hub Avatar 
 ### FRIEND
-Command: `+friend`\
-Aliases: `+f`, `+friends`\
+Command: `-friend`\
+Aliases: `-f`, `-friends`\
 Friend Add/Remove/Nuke/Info
 
 ## STW
 ### DAILY
-Command: `+daily`\
-Aliases: `+claim`, `+stw`\
+Command: `-daily`\
+Aliases: `-claim`, `-stw`\
 Claims Daily STW Reward 
 ### HOMEBASE
-Command: `+homebase`\
-Aliases: `+homebasename`\
+Command: `-homebase`\
+Aliases: `-homebasename`\
 Changes your STW Homebase Name 
 
 # Credits
