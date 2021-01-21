@@ -11,7 +11,7 @@
 
 # About
 
-**Logic** is a **Discord Bot** which let's you login to your Fortnite account and access 30- commands! You can save up to 7 accounts which you can switch between! You can buy, gift, check your locker, and do much more!
+**Logic** is a **Discord Bot** which let's you login to your Fortnite account and access 35+ commands! You can save up to 7 accounts which you can switch between! You can buy, gift, check your locker, and do much more!
 
 # Features
 
